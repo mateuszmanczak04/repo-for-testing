@@ -1,9 +1,0 @@
-Hello world
-
-#include <iostream>
-
-console.log("Love javascript");
-
-Enum.map(list_items, fn x -> ... end)
-
-Blablabla
